@@ -12,7 +12,7 @@ their adoptability.
 
 ## Method and results
 
-After processing the data, I visualized variable relationships in data and performed k-means clustering to check if there were any underlying patterns in the data. 
+After processing the data, I visualized several variable relationships in the data and performed k-means clustering to check if there were any underlying patterns in the data. 
 Unfortunately, I was not able to find very insightful information, but I was able to learn a lot about neural networks. Using a feed forward neural network, I was able to 
 achieve a lower mean absolute error than with a random forest. However, the model did not perform well on the testing data. Ultimately, I believe the problem I was trying to 
 solve is too nuanced for the data that I had.
