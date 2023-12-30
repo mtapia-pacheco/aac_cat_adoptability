@@ -1,6 +1,6 @@
 # Ausin Animal Center Modeling
 
-What neural networks can best predict how long a cat spends in the shelter? What factors affect their adoptability.
+What neural networks can best predict how long a cat spends in the shelter? What factors affect their adoptability?
 
 
 ## Motivation
